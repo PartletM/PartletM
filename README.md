@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PartletM
-- 👀 I’m interested in Data Science, Machine Learning and Deep Learning
+- 👀 I’m interested in Data Engineering, Data Science, Machine Learning and Deep Learning
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Data Science, Machine Learning and Deep Learning
 - 📫 How to reach me ...
